@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/MVCProject/.vs/MVCProject
+/MVCProject/MVCProject/bin/Debug/netcoreapp3.1
+/MVCProject/MVCProject/obj
